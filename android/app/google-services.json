@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162190627165",
+    "project_id": "fila-8005f",
+    "storage_bucket": "fila-8005f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162190627165:android:d9eb93ff9c0c5e6f6258b4",
+        "android_client_info": {
+          "package_name": "com.example.recepcao_precheckin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn_78gk6WBRZ6D4S3tD4PLyy9gGRPh7yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
